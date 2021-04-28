@@ -1,0 +1,7 @@
+.sample_submission.csv
+.test.csv
+.train_metadata.csv
+.train_soundscape_labels.csv
+test_soundscapes/
+train_short_audio/
+train_soundscapes/
