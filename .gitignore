@@ -1,7 +1,4 @@
-.sample_submission
-.test
-.train_metadata
-.train_soundscape_labels
+*.csv
 test_soundscapes/
 train_short_audio/
 train_soundscapes/
